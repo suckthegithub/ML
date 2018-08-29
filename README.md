@@ -4,13 +4,19 @@
   
   
 # 1.数学基础
-  ##  核心点参考
+  ##  参考
    *  [机器学习之数学基础系列](https://github.com/suckthegithub/MathForMachineLearning)  
+   *  [机器学习理论篇1：机器学习的数学基础](https://zhuanlan.zhihu.com/p/25197792?utm_source=com.daimajia.gold&utm_medium=social)
+  ##  微积分
+   *  [公开课 微积分 清华大学 78讲](https://www.bilibili.com/video/av22429434?from=search&seid=11992429619594866580)   
   ##  线性代数笔记和课程
    *  [麻省理工公开课：线性代数视频](https://www.bilibili.com/video/av15463995?from=search&seid=1858200168541050956)  
    *  [课程笔记笔记](https://github.com/suckthegithub/notes-linear-algebra)  
       
-  ## 1.2 
+  ##  概率与统计
+   *  [公开课 概率论与数理统计 浙江大学](https://www.bilibili.com/video/av20027947?from=search&seid=8087276547748377267)
+   
+  ##  凸优化
+   *  [机器学习之凸优化](https://www.bilibili.com/video/av29071445/?p=32)  
   
-  
- # 2. 。。。
+ # 2. wait ...
