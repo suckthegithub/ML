@@ -17,6 +17,6 @@
    *  [公开课 概率论与数理统计 浙江大学](https://www.bilibili.com/video/av20027947?from=search&seid=8087276547748377267)
    
   ##  凸优化
-   *  [机器学习之凸优化](https://www.bilibili.com/video/av29071445/?p=32)  
+   *  [机器学习之凸优化 配合书记《凸优化 王书宁 译》](https://www.bilibili.com/video/av29071445/?p=32)  
   
  # 2. wait ...
