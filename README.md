@@ -12,7 +12,7 @@
   ##  线性代数笔记和课程
    *  [麻省理工公开课：线性代数视频](https://www.bilibili.com/video/av15463995?from=search&seid=1858200168541050956)  
    *  [课程笔记笔记](https://github.com/suckthegithub/notes-linear-algebra)  
-      
+   *  [辅助理解:线性代数的本质](https://www.bilibili.com/video/av5987715?from=search&seid=2548239589312154245)     
   ##  概率与统计
    *  [公开课 概率论与数理统计 浙江大学](https://www.bilibili.com/video/av20027947?from=search&seid=8087276547748377267)
    
