@@ -18,5 +18,6 @@
    
   ##  凸优化
    *  [机器学习之凸优化 配合书记《凸优化 王书宁 译》](https://www.bilibili.com/video/av29071445/?p=32)  
-  
+  ##  Final
+   *  [图解机器学习的数学基础：线性代数，微积分，PCA的直觉(完结)](https://www.bilibili.com/video/av21562345/?p=1)
  # 2. wait ...
